@@ -1,9 +1,9 @@
-# EnhancingUserRatingsOfRestaurant
+# Enhancing User Ratings Of Restaurant
 Enhancing User ratings of restaurant
 
 
 Created this presentation as a part of my endsem examination of Data Visualisation and Communication subject.
-Problem Statement :
+**Problem Statement :**
 Please refer to the attached file for reference.
 The file has two sets of data. The first file has the data on restaurants across the locations in the USA.
 The second file has the user rating of these restaurants.
